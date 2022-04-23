@@ -1,6 +1,5 @@
 # MathsCodingQuestions 🔥
 Important Mathematics Topics For Learning Data Structure & Algorithms 
--
 ---
 ### Basic Foundation Topics
 ---
